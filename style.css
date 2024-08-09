@@ -1,0 +1,281 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: poppins-semibold, poppins, sans-serif;
+}
+body{
+    margin: 0;
+}
+.first{
+
+    position:fixed;
+    width:100%;
+   height:100px;
+   
+   
+   
+   
+    background-color: white;
+}
+.second{
+   
+}
+.imgs{
+    width: 100%;
+    height: 800px;margin-top: 100px;
+    
+}
+.image{
+   
+}
+.second{
+    color:brown;
+    margin-left: 10%;
+   margin-top: 2%;
+}
+.second1{
+    color:brown;
+    margin-left:83% ;
+    margin-top:-1% ;
+
+}
+.second3{
+    width:155px;
+    height:67px;
+    margin-left: 44%;
+    margin-top: -3%;
+}
+.third{
+    width:100%;
+    height:113px;
+    background-color: white;
+}
+.third1{
+    color:black;
+    margin-left:42% ;
+    margin-top:4% ;
+}
+.forth{
+    margin-left: 35px;
+    width:19%;
+   
+    z-index: -1;
+}
+.fifth{
+    margin-left: -4px;
+    width:19%;
+   
+    z-index: -1;
+}
+.sixth{
+    margin-left: -4px;
+    width:19%;
+    
+    z-index: -1;
+}
+.seventh{
+    margin-left: -4px;
+    width:19%;
+    
+    z-index: -1;
+}
+.eigth{
+    margin-left: -4px;
+    width:19%;
+    
+    z-index: -1;
+}
+.ninth{
+    width:100%;
+    height:35px;
+    background-color: brown;
+}
+.tenth{
+    width:100%;
+    height:1000px;
+    background-color:antiquewhite;
+}
+.subeigth{
+    width:40%;
+    height:40px;
+    background-color: bisque;
+    margin-left:500px ;
+    
+}
+.text{
+    margin-top: 270px;
+    color:white;
+    margin-left: 300px;
+   position:absolute;
+   font-size: 55px;
+   font-weight: 50px;
+   font-family: "Roboto", sans-serif;
+
+
+}
+.text2{
+    color:white;
+    position:absolute;
+    margin-top: 355px;
+    margin-left: 595px;
+    font-size:17px;
+}
+
+.image3{
+    display: flex;
+    margin-top:30px;
+   
+    width:95%;
+    margin-left: 35px;
+    
+    height:670px;
+    
+}
+.imgone{
+    width:25%;
+
+}
+.imgtwo{
+    width:25%;
+}
+.imgthree{
+    width:25%;
+}
+.imgfour{
+    width:25%;
+    
+}
+.p{
+    position: absolute;
+    padding-left: 400px;
+    padding-top: 270px;
+    font-size: 53px;
+    color: white;
+    
+
+    
+}
+.p1{
+    position:absolute;
+    padding-left:562px ;
+    padding-top:358px ;
+    color:white;
+    font-size: medium;
+
+}
+.dlast{
+    width:100%;
+    height: 140px;
+    
+}
+.elast{
+    width:100%;
+    height:3px;
+    background-color: lightgrey;
+
+}
+.flast{
+    width:100%;
+    height: 230px;
+    
+    
+}
+.underline{
+    position: absolute;
+   font-size:54px;
+   margin-left: 97px;
+   padding-top: 155px;
+   
+}
+.glast{
+    position: absolute;
+    padding-left: 890px;
+    padding-top: 75px;
+    width:145px;
+
+}
+.hlast{
+    position: absolute;
+    padding-left: 670px;
+    width:145px;
+    padding-top: 80px;
+}
+.ilast{
+    position: absolute;
+    padding-left:431px ;
+    padding-top: 80px;
+    width:145px;
+}
+.jlast{
+    position: absolute;
+    padding-left:170px ;
+    padding-top: 100px;
+    width:210px;
+}
+.font1{
+    padding-left:940px ;
+    padding-top:315px ;
+}
+
+.font2{
+  
+    padding-bottom: 50px;
+    margin-bottom: 40px;
+    margin-left: 20px;
+    
+}
+.lastdiv{
+    width:100%;
+    height:270px;
+    
+}
+.txt1{
+
+    position: absolute;
+    padding-top: 90px;
+    
+    padding-left: 950px;
+    
+    
+}
+.txt2{
+    position: absolute;
+    margin-top: 93px;
+    margin-left: 780px;
+}
+.txt3{
+    position: absolute;
+    margin-top: 94px;
+    margin-left: 660px ;
+}
+.txt4{
+    position: absolute;
+    margin-top: 94px;
+    margin-left:450px ;
+}
+.txt5{
+    position: absolute;
+    margin-top: 95px;
+    margin-left:360px ;
+}
+.txt6{
+    position: absolute;
+    margin-top: 94px;
+    margin-left:230px ;
+}
+.txt7{
+    position: absolute;
+    margin-top: 94px;
+    margin-left:120px ;
+}
+
+
+
+
+
+
+
+  
+    
+    
+
